@@ -1,0 +1,24 @@
+{
+  "name": "gudwin/extasy-user-profile",
+  "description": "Usecases for users profile feature",
+  "authors": [
+    {
+      "name": "Dmitry Shevchenko",
+      "email": "dmitry@dd-team.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "phpunit/phpunit": "*",
+    "gudwin/extasy-model" : "0.1.*",
+    "gudwin/extasy-users" : "0.1.*",
+    "gudwin/extasy-usecase" : "0.1.*",
+    "gudwin/faid" : "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Extasy\\UserProfile\\tests\\": "tests/",
+      "Extasy\\UserProfile\\": "src/"
+    }
+  }
+}
