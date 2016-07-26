@@ -63,16 +63,16 @@
         },
         {
             "name": "gudwin/extasy-model",
-            "version": "0.1.2",
+            "version": "0.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gudwin/extasy-model.git",
-                "reference": "8f8846fec9a58f78defc8bb8642f8fd86e771864"
+                "reference": "a4dc0d264ffe5e1f7530a40545e399b643c2c5f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gudwin/extasy-model/zipball/8f8846fec9a58f78defc8bb8642f8fd86e771864",
-                "reference": "8f8846fec9a58f78defc8bb8642f8fd86e771864",
+                "url": "https://api.github.com/repos/gudwin/extasy-model/zipball/a4dc0d264ffe5e1f7530a40545e399b643c2c5f2",
+                "reference": "a4dc0d264ffe5e1f7530a40545e399b643c2c5f2",
                 "shasum": ""
             },
             "require": {
@@ -95,7 +95,7 @@
                 }
             ],
             "description": "Base model for Extasy",
-            "time": "2016-06-26 20:59:03"
+            "time": "2016-07-26 11:32:27"
         },
         {
             "name": "gudwin/extasy-usecase",
@@ -134,16 +134,16 @@
         },
         {
             "name": "gudwin/extasy-users",
-            "version": "0.1.9",
+            "version": "0.1.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gudwin/extasy-users.git",
-                "reference": "6d9190a85e4aae8b4b73705ad6d4172b037d792f"
+                "reference": "d821b3deea1259d1e57f498c8776d96b4c2cbf81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gudwin/extasy-users/zipball/6d9190a85e4aae8b4b73705ad6d4172b037d792f",
-                "reference": "6d9190a85e4aae8b4b73705ad6d4172b037d792f",
+                "url": "https://api.github.com/repos/gudwin/extasy-users/zipball/d821b3deea1259d1e57f498c8776d96b4c2cbf81",
+                "reference": "d821b3deea1259d1e57f498c8776d96b4c2cbf81",
                 "shasum": ""
             },
             "require": {
@@ -167,7 +167,7 @@
                 }
             ],
             "description": "Users module for Extasy. Allows to store and load users",
-            "time": "2016-07-07 11:50:57"
+            "time": "2016-07-26 12:15:37"
         },
         {
             "name": "gudwin/faid",
